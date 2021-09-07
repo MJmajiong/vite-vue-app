@@ -1,0 +1,21 @@
+{
+  "name": "vite-vue-app",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "element-plus": "^1.1.0-beta.7",
+    "element-ui": "^2.15.5",
+    "sass": "^1.38.2",
+    "vue": "^3.2.6",
+    "vuex": "^4.0.2"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^1.6.0",
+    "@vue/compiler-sfc": "^3.0.5",
+    "vite": "^2.5.1"
+  }
+}
